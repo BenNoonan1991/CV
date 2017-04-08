@@ -1,29 +1,23 @@
-## Your Name
+## Ben Noonan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am former business consultant and teacher who has decided to pursue a career change by learning to code at Makers Academy, one of Europe’s most selective and demanding coding bootcamps.
+
+I am looking for a junior developer role in the London area that will allow to continue my progression and pursue my passion for creating high quality software.
+
 
 ## Skills
 
-#### This Skill
+#### Technological skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my times as an accountant and business consultant, I specialized in analysing where clients could benefit from implementing new IT systems and software to increase efficiency and reduce labour costs.  This ranged from small tweaks to their software usage,  to total overhauls of their IT systems.  For example, over the course of one audit, I transformed a small client from storing paper files in a shed to being fully cloud based, and equipped with the latest accountancy software.  Our analysis showed that this would reduce their admin costs by over 25% year on year, as well giving staff members far more time to concentrate on more productive areas of the business.
 
-- Experience
-- Achievements
-- Evidence
+#### Analytical skills
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My finance background has ensured I have a keen eye for detail.  I have found that my experience of auditing has been particularly invaluable when it comes to debugging code, as I have a lot of practice in identifying errors or areas of weakness that initially seem buried in large quantities of data or documents.  It also taught me to establish the simplest, most readable way to present this analysis to clients.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2017 to June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +26,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University College London (2010 to 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- BA in English Literature
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Cartwrights Accountants and Business Consultants, April 2016 to November 2016:
+Accounts preparation, auditing and business consultancy.  Particular emphasis on assisting clients improve their IT systems and software usage.
+
+Education First, Shanghai, December 2015 to April 2016:
+Teaching both group and one to one classes to adults of all ability levels.  Also involved in developing and improving the curriculum and lesson materials.
+
+Thickbroom Coventry Chartered Accountants, January 2014 to November 2014:
+Trainee accountant.  Accounts preparation and auditing, as well as regulary liaising with clients to suggest ways to cut costs and improve productivity.
+  
