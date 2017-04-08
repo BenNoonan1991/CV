@@ -15,6 +15,11 @@ During my times as an accountant and business consultant, I specialized in analy
 
 My finance background has ensured I have a keen eye for detail.  I have found that my experience of auditing has been particularly invaluable when it comes to debugging code, as I have a lot of practice in identifying errors or areas of weakness that initially seem buried in large quantities of data or documents.  It also taught me to establish the simplest, most readable way to present this analysis to clients.
 
+#### Communication skills 
+
+Prior to my time in business consultancy I spent nine months in Shanghai working as a teacher.  This forced me to develop the ability communicate ideas clearly and concisely.  Helping to prepare students for exams also helped to develop my organizational skills.  I also helped to implement improvements to the curriculum used by my company, identifying areas where students struggled most and fine-tuning the classes in these areas to break the problems down into smaller, more manageable chunks, which saw student pass rates increase substantially.  I was offered a management role for this achievement.
+
+
 ## Education
 
 #### Makers Academy (March 2017 to June 2017)
@@ -40,4 +45,3 @@ Teaching both group and one to one classes to adults of all ability levels.  Als
 
 Thickbroom Coventry Chartered Accountants, January 2014 to November 2014:
 Trainee accountant.  Accounts preparation and auditing, as well as regulary liaising with clients to suggest ways to cut costs and improve productivity.
-  
