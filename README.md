@@ -37,11 +37,11 @@ Prior to my time in business consultancy I spent nine months in Shanghai working
 
 ## Experience
 
-####Cartwrights Accountants and Business Consultants, April 2016 to November 2016:
+Cartwrights Accountants and Business Consultants, April 2016 to November 2016:
 Accounts preparation, auditing and business consultancy.  Particular emphasis on assisting clients improve their IT systems and software usage.
 
-####Education First, Shanghai, December 2015 to April 2016:
+Education First, Shanghai, December 2015 to April 2016:
 Teaching both group and one to one classes to adults of all ability levels.  Also involved in developing and improving the curriculum and lesson materials.
 
-####Thickbroom Coventry Chartered Accountants, January 2014 to November 2014:
+Thickbroom Coventry Chartered Accountants, January 2014 to November 2014:
 Trainee accountant.  Accounts preparation and auditing, as well as regulary liaising with clients to suggest ways to cut costs and improve productivity.
