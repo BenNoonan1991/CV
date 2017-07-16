@@ -8,8 +8,12 @@ I am looking for a junior developer role in the London area that will allow to c
 
 | Projects  | Description | Technology |
 | ------------- | ------------- | ------------- |
-| [Feedr](https://github.com/BenNoonan1991/feedr)  | This app allows users to host and attend dinner parties based on their location, and then make a voluntary donation to the host. | Ruby, Rails, RSpec, Capybara, PostgreSQL | 
-| Content Cell  | Content Cell  |               |
+| [Feedr](https://github.com/BenNoonan1991/feedr)  | This app allows users to host and attend dinner parties based on their location, and then make a voluntary donation to the host.  Completed in a team of 5. | Ruby, Rails, RSpec, Capybara, PostgreSQL |
+| [Snake](https://github.com/BenNoonan1991/snake)  | First attempt at writing an HTML game in Javascript, the classic game 'Snake'.  Completed in a team of 4  | Javascript, Jasmine, HTML, CSS |
+| [Tic-tac-toe](https://github.com/BenNoonan1991/tic_tac_toe_2) | Tech test based on the popular game tic-tac-toe | Ruby, RSpec |
+| [Bank Tech Test](https://github.com/BenNoonan1991/bank_tech_test) | Practice tech test to make a bank account program capable of making transactions and producing a bank statement| Ruby, Rspec|
+| [Acebook](https://github.com/BenNoonan1991/acebook) | Created as part of team of 17 over one week, a replica of Facebook | Ruby, Sinatra, DataMapper, RSpec, Capybara, Postgres |
+| [MakersBnB](https://github.com/BenNoonan1991/Makers-BnB) | Created in a team of 4 over 1 week, an app based on AirBnb | Ruby, Rspec, Capybara, DataMapper, PostgreSQL |  
 
 
 ## Skills
