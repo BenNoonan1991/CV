@@ -4,6 +4,13 @@ I am former business consultant and teacher who has decided to pursue a career c
 
 I am looking for a junior developer role in the London area that will allow to continue my progression and pursue my passion for creating high quality software.
 
+## Projects
+
+| Projects  | Description | Technology |
+| ------------- | ------------- | ------------- |
+| [Feedr](https://github.com/BenNoonan1991/feedr)  | This app allows users to host and attend dinner parties based on their location, and then make a voluntary donation to the host. | Ruby, Rails, RSpec, Capybara, PostgreSQL | 
+| Content Cell  | Content Cell  |               |
+
 
 ## Skills
 
