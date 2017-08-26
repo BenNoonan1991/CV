@@ -14,7 +14,7 @@ I am looking for a junior developer role in the London area that will allow to c
 | [Bank Tech Test](https://github.com/BenNoonan1991/bank_tech_test) | Practice tech test to make a bank account program capable of making transactions and producing a bank statement| Ruby, Rspec|
 | [Acebook](https://github.com/BenNoonan1991/acebook) | Created as part of team of 17 over one week, a replica of Facebook | Ruby, Sinatra, DataMapper, RSpec, Capybara, Postgres |
 | [MakersBnB](https://github.com/BenNoonan1991/Makers-BnB) | Created in a team of 4 over 1 week, an app based on AirBnb | Ruby, Rspec, Capybara, DataMapper, PostgreSQL |
-| [Instagram](https://github.com/BenNoonan1991/instagram-challenge) | Individual challenge to create a new version of Instagrams | Ruby, Rspec, Capybara, DataMapper, PostgreSQL, Javascript, HTML, CSS |  
+| [Instagram](https://github.com/BenNoonan1991/instagram-challenge) | Individual challenge to create a new version of Instagram. | Ruby, Rspec, Capybara, DataMapper, PostgreSQL, Javascript, HTML, CSS |  
 
 
 ## Skills
